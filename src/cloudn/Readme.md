@@ -1,27 +1,5 @@
 # Cloud Native Foundation
-[]: # 
-[]: #   
-[]: #
 
-    
-    []: # Language: markdown
-    []: # Path: web\docs\src\index.md
-    []: # Compare this snippet from web\docs\src\cloudn\Readme.md:
-    []: # ---
-    []: # home: true
-    []: # heroImage: /img/logo.png
-    []: # tagline: GitOps site
-    []: # actionText: Quick Start →
-    []: # actionLink: /guide/
-    []: # features:
-    []: # - title: Cloud Native
-    []: #   details: Feature 1 Description
-    []: # - title: Terraform
-    []: #   details: Feature 2 Description
-    []: # - title: Tools
-    []: #   details: Feature 3 Description
-    []: # footer: Made by mocr with ❤️
-    []: # ---
-    []: #
+![](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cncf/contentbuilder/cncf-color_X2rYEiW.png)
 
-    Cloud Native Foundation 
+Cloud Native Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including [Kubernetes](/kubernetes), Prometheus, and Envoy.
