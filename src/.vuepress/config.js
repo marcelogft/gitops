@@ -60,7 +60,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'kubernetes',
+            'kubernetes',            
           ]
         }
       ],
@@ -70,7 +70,8 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'devops',
+            'pipelines',
           ]
         }
       ],
