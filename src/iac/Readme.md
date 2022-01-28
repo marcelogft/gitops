@@ -6,6 +6,8 @@ IAC is a common practice in cloud native computing environments, where the infra
 
 ![](https://blog.stackpath.com/wp-content/uploads/2020/01/infrastructure-as-code.png)
 
+*https://blog.stackpath.com/wp-content/uploads/2020/01/infrastructure-as-code.png*
+
 ## Idempotency
 
 Idempotency means no matter how many times you run your IaC and, what your starting state is, you will end up with the same end state. This simplifies the provisioning of Infrastructure and reduces the chances of inconsistent results.
