@@ -37,6 +37,10 @@ module.exports = {
     lastUpdated: true, // string | boolean
     nav: [
       {
+        text: 'Guide',
+        link: '/guide/',
+      },
+      {
         text: 'Cloud Native',
         link: '/cloudn/',
       },
@@ -60,7 +64,8 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'kubernetes',            
+            'kubernetes',     
+            'envoy',       
           ]
         }
       ],
