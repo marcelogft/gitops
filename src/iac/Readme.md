@@ -4,9 +4,7 @@ Infrastructure as Code (IAC) is the process of managing and provisioning compute
 
 IAC is a common practice in cloud native computing environments, where the infrastructure is defined in a declarative format, and the software is deployed in a declarative manner.
 
-![](https://blog.stackpath.com/wp-content/uploads/2020/01/infrastructure-as-code.png)
-
-*https://blog.stackpath.com/wp-content/uploads/2020/01/infrastructure-as-code.png*
+<ImgCard url="https://blog.stackpath.com/wp-content/uploads/2020/01/infrastructure-as-code.png" width="600" ></ImgCard> 
 
 ## Idempotency
 
