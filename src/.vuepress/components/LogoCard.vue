@@ -4,7 +4,7 @@
           <img :src="url" width="100"/>
         </div>
         <div class="service">
-          <a class="caption" :href="service">{{ service }}</a> 
+          <a class="caption" :href="link">{{ service }}</a> 
           <p class="description"> {{ description }}</p>
         </div>        
     </div>
