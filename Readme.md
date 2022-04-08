@@ -1,6 +1,6 @@
 # GitOps docs
 
-https://marcelogft.github.io/gitops/
+https://mcolomerc.github.io/gitops/
 
 ## Build 
 npm run build
